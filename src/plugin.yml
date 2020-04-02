@@ -1,0 +1,10 @@
+name: DenyTeleport
+version: 0
+author: Carson McManus
+main: com.dyc3.DenyTeleport.Main
+api-version: 1.15
+#depend: [WorldGuard]
+commands:
+  reload:
+    description: Reloads the DenyTeleport config.
+    usage: /<command>
